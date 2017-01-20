@@ -1,0 +1,91 @@
+body{
+
+color:black;
+background-color:white;
+background-image:url(Driving_Car_In_Mountains.jpg);
+background-size: cover;
+
+}
+
+div.transbox {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    opacity: 0.4;
+    
+}
+div.transbox p {
+
+    font-family: Impact, "Arial Grey";
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    color: #000000;
+}
+
+.model{
+	padding: 10px;
+	position: 20px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 280px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+}
+
+.price-by-day{
+	padding: 10px;
+	margin-right: 100px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+}
+
+.price-by-km{
+	padding: 10px;
+	margin-right: 100px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+}
+
+.begin{
+	padding: 10px;
+	position: 20px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 280px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+}
+
+.end{
+	padding: 10px;
+	position: 20px;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 25px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+}
+
+.distance{
+	padding: 10px;
+	position: 20px;
+	margin-top: 100px;
+	margin-right: 10px;
+	margin-left: 50px;
+	opacity: 0.4;
+	font-family:  "Arial Black";
+	font-weight: bold;
+
+}
+
+.button{
+	text-align: center;
+	margin-top: 60px;
+
+}
